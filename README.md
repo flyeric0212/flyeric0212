@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Chengdu, China
-- 🌱 I’m currently learning kubernetes, istio, microservice
+- 🔭 I’m currently working on Chengdu, China.
+- 🌱 I’m currently focus on architecture design, technology management, cloud native, AIGC, front-end technology, and project practice etc.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
