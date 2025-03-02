@@ -9,7 +9,7 @@
 - 🌥️ 云原生开发
 
 ## 我的项目
-- 博客：https://flyeirc.top/
+- 博客：https://flyeric.top/
 - 微信公众号：Eric技术圈
 - 微信小程序：Eric技术圈
 - 微信 Markdown 转换神器：https://md.flyeric.top/
