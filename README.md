@@ -1,23 +1,20 @@
-### Hi there 👋
+# 你好，我是 Eric 👋
 
-<!--
-**amuguelove/amuguelove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub！我是一名全栈开发者，擅长前端和后端技术，架构设计和技术管理。目前正在深入研究人工智能领域。🤖
 
-Here are some ideas to get you started:
+## 我的专长
+- 🌐 全栈开发
+- 🏗️ 架构设计
+- 👨‍💼 技术管理
+- 🌥️ 云原生开发
 
-- 🔭 I’m currently working on Chengdu, China.
-- 🌱 I’m currently focus on architecture design, technology management, cloud native, AIGC, frontend etc.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 我的项目
+- 博客：https://flyeirc.top/
+- 微信公众号：Eric技术圈
+- 微信小程序：Eric技术圈
+- 微信 Markdown 转换神器：https://md.flyeric.top/
 
-- 🔭 I’m currently working on Chengdu, China.
-- 🌱 I’m currently focus on architecture design, technology management, cloud native, AIGC, front-end technology, and project practice etc.
-- 💬 Ask me about java, springboot/springcloud, mysql, redis, linux, kubernetes, cicd, microservice, devops, gitops etc.
-- 📫 How to reach me: bo.liang0212@outlook.com or at my blog [flyeric.top](https://flyeric.top).
 
-[![Eric's github stats](https://github-readme-stats.vercel.app/api?username=flyeric0212&show_icons=true&theme=synthwave)](https://github.com/flyeric0212/github-readme-stats)
+## 联系我
+始终保持开放的学习态度，欢迎合作交流。随时欢迎联系我！
+- 邮箱：bo.liang0212@outlook.com
