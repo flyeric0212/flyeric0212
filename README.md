@@ -9,12 +9,14 @@
 - 🌥️ 云原生开发
 
 ## 我的项目
-- 博客：https://flyeric.top/
+- 个人博客：https://flyeric.top/
 - 微信公众号：Eric技术圈
-- 微信小程序：Eric技术圈
+- 微信小程序：Eric技术圈（普拉提预约小程序）
 - 微信 Markdown 转换神器：https://md.flyeric.top/
+- 个人作品集：https://portfolio.flyeric.top/
 
 
 ## 联系我
 始终保持开放的学习态度，欢迎合作交流。随时欢迎联系我！
 - 邮箱：bo.liang0212@outlook.com
+- Github: [flyeric0212](https://github.com/flyeric0212)
