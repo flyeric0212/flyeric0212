@@ -10,7 +10,6 @@
 
 ## 我的项目
 - 个人博客：https://flyeric.top/
-- 个人作品集：https://portfolio.flyeric.top/
 - 微信 Markdown 在线编辑器：https://md.flyeric.top/
 - 微信公众号：Eric技术圈
 - 微信小程序：Eric技术圈（普拉提预约小程序）
