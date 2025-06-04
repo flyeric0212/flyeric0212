@@ -10,9 +10,10 @@
 
 ## 我的项目
 - 个人博客：https://flyeric.top/
-- 微信 Markdown 在线编辑器：https://md.flyeric.top/
 - 微信公众号：Eric技术圈
 - 微信小程序：Eric技术圈（普拉提预约小程序）
+- 微信 Markdown 在线编辑器：https://md.flyeric.top/
+- 美食转盘：https://eatwhat.flyeric.top/
 
 ## 联系我
 始终保持开放的学习态度，欢迎合作交流。随时欢迎联系我！
