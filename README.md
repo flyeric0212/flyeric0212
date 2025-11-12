@@ -10,7 +10,8 @@
 
 ## 我的工作室
 - 官网：https://xiayoumu.com
-- 夏有木进销存产品：https://xiayoumu.com/products/erp
+- 夏有木进销存：https://xiayoumu.com/products/erp
+- 官网博客：https://xiayoumu.com/blog
 
 ## 个人项目
 - 个人博客：https://flyeric.top
