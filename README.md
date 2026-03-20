@@ -19,7 +19,6 @@
 - 个人博客：https://flyeric.top
 - Github: https://github.com/flyeric0212
 - 微信公众号：Eric技术圈
-- 小红书：程序员Eric
 
 ## 联系我
 联系方式如下，欢迎交流。
